@@ -14,9 +14,9 @@ var languageStrings = {
     // , 'de-DE': { 'translation' : { 'TITLE'   : "Local Helfer etc." } }
 };
 var data = {
-    "city"        : "Gloucester",
-    "state"       : "MA",
-    "postcode"    : "01930",
+    "city"        : "Elizabeth",
+    "state"       : "NJ",
+    "postcode"    : "07201",
     "restaurants" : [
         { "name":"Zeke's Place",
             "address":"66 East Main Street", "phone": "978-283-0474",
